@@ -29,7 +29,7 @@
 📫 **Contact Me**  
 - 📧 firozm613@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/programmerfiroz)  
-- 🌐 [Portfolio / Resume](https://drive.google.com/your-resume-link-here) *(replace this)*
+- 🌐 [Portfolio / Resume](https://drive.google.com/file/d/1--MD6AiVsUiSV2qTRXkF2czZcGjPa9_1/view) *(replace this)*
 
 ---
 
